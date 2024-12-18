@@ -37,7 +37,7 @@ The dataset was created using the following steps:
 Clone the repository and install the required dependencies:
 
 ```bash
-$ git clone [<repository-url>](https://github.com/AlexD36/falcon-7b-midjourney-prompt-generator)
+$ git clone https://github.com/AlexD36/falcon-7b-midjourney-prompt-generator
 $ cd <repository-directory>
 $ pip install -r requirements.txt
 ```

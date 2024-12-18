@@ -2,7 +2,6 @@
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-blue?style=flat-square)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Used%20for%20Fine--Tuning-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 This repository contains a fine-tuned version of the open-source Falcon 7B large language model (LLM), designed to generate detailed and complex MidJourney prompts from simple user input sentences. The fine-tuning process was performed using a custom dataset prepared with Relevance AI and insights from ChatGPT.
 
